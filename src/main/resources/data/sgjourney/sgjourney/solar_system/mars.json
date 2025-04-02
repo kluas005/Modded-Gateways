@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.mars",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 30, 9, 31, 13, 3, 12],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [30, 9, 27, 18, 32, 31], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:kaliem",
+
+  "dimensions": ["ad_astra:mars", "ad_astra:mars_orbit", "cosmos:marslands"]
+}

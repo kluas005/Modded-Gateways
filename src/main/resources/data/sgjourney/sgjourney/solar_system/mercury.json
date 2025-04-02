@@ -1,0 +1,24 @@
+{
+  "name": "solar_system.sgjourney.mercury",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 8, 17, 4, 23, 11, 31],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [30, 9, 36, 34, 31, 27], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:reflection",
+
+  "dimensions": [
+    "ad_astra:mercury",
+    "ad_astra:mercury_orbit",
+
+    "cosmos:mercury_wasteland"
+  ]
+}

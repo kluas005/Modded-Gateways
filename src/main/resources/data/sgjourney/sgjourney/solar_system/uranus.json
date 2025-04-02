@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.uranus",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 26, 9, 29, 22, 18, 14],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [26, 5, 16, 28, 18, 6], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:aurum",
+
+  "dimensions": ["cosmos:uranus_lands"]
+}

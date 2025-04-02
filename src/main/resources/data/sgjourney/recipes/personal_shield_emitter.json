@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["NGN", "GPG", "NAN"],
+  "key": {
+    "N": {
+      "item": "sgjourney:naquadah_alloy"
+    },
+    "G": {
+      "tag": "forge:glass_panes"
+    },
+    "P": {
+      "item": "sgjourney:plasma_converter"
+    },
+    "A": {
+      "item": "sgjourney:advanced_control_crystal"
+    }
+  },
+  "result": {
+    "item": "sgjourney:personal_shield_emitter"
+  },
+  "show_notification": true
+}

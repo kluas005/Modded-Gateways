@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.saturn",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 25, 4, 29, 22, 19, 10],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [24, 3, 9, 16, 28, 18], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:phoenix",
+
+  "dimensions": ["cosmos:saturn_lands"]
+}
