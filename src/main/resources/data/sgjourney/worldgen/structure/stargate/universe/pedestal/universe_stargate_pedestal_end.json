@@ -16,11 +16,11 @@
 		"type": "minecraft:uniform",
 		"min_inclusive":
 		{
-			"absolute": 60
+			"absolute": 69
 		},
 		"max_inclusive":
 		{
-			"absolute": 64
+			"absolute": 80
 		}
 	},
 	
