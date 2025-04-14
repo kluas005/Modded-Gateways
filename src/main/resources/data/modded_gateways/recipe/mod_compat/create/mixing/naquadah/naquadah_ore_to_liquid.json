@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "neoforge:ores/naquadah"
+    }
+  ],
+  "results": [
+    {
+      "amount": 100,
+      "id": "sgjourney:liquid_naquadah"
+    }
+  ]
+}

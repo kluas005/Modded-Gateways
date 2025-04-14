@@ -1,6 +1,11 @@
 {
-  "include_generated_addresses": true,
+  "include_generated_addresses": false,
   "addresses": [
+    {
+      "address": "minecraft:overworld",
+      "weight": 1,
+      "galaxy": "sgjourney:milky_way"
+    },
     {
       "address": "aether:the_aether",
       "weight": 1,
