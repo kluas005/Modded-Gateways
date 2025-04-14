@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.deeper_and_darker",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 9, 33, 16, 28, 5, 18],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [20, 9, 33, 16, 28, 5], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:dark_star",
+
+  "dimensions": ["deeperdarker:otherside"]
+}

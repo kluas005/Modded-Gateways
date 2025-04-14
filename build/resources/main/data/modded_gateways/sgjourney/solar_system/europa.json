@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.europa",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 22, 30, 26, 16, 8, 15],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [26, 5, 16, 28, 18, 3], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:reflection",
+
+  "dimensions": ["cosmos:europa_lands"]
+}

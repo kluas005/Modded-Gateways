@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["NRN", "TMC", "NBN"],
+  "key": {
+    "N": {
+      "item": "sgjourney:naquadah_alloy"
+    },
+    "R": {
+      "item": "sgjourney:control_crystal"
+    },
+    "M": {
+      "item": "sgjourney:advanced_materialization_crystal"
+    },
+    "T": {
+      "item": "sgjourney:advanced_transfer_crystal"
+    },
+    "C": {
+      "item": "sgjourney:advanced_communication_crystal"
+    },
+    "B": {
+      "item": "sgjourney:advanced_crystal_base"
+    }
+  },
+  "result": {
+    "item": "sgjourney:transport_rings"
+  },
+  "show_notification": true
+}
