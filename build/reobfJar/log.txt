@@ -350,9 +350,6 @@ Writing Output: C:\Users\klz02\Desktop\modded_gateways\build\reobfJar\output.jar
   data/sgjourney/worldgen/structure/stargate/milky_way/
   data/sgjourney/worldgen/structure/stargate/milky_way/pedestal/
   data/sgjourney/worldgen/structure/stargate/milky_way/pedestal/stargate_pedestal_glacio.json
-  data/sgjourney/worldgen/structure/stargate/universe/
-  data/sgjourney/worldgen/structure/stargate/universe/pedestal/
-  data/sgjourney/worldgen/structure/stargate/universe/pedestal/universe_stargate_pedestal_island_end.json
   logo.jpg
   net/
   net/klaus/
