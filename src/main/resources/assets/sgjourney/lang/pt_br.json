@@ -1,7 +1,7 @@
 {
   "block.sgjourney.naquadah_ore": "Minério de Naquadah",
   "block.sgjourney.nether_naquadah_ore": "Minério de Naquadah do Nether",
-  "block.sgjourney.deepslate_naquadah_ore": "Minério de Naquadah de Ardosiabissal",
+  "block.sgjourney.deepslate_naquadah_ore": "Minério de Naquadah de Ardósiabissal",
   "block.sgjourney.raw_naquadah_block": "Bloco de Naquadah Bruto",
   "block.sgjourney.pure_naquadah_block": "Bloco de Naquadah Puro",
   "block.sgjourney.naquadah_block": "Bloco de Naquadah",
@@ -16,7 +16,7 @@
 
   "block.sgjourney.sulfur_sand": "Areia de Enxofre",
 
-  "block.sgjourney.budding_unity": "Brotamento de Unidade",
+  "block.sgjourney.budding_unity": "Unidade em Brotamento",
   "block.sgjourney.unity_cluster": "Aglomerado de Unidade",
   "block.sgjourney.large_unity_bud": "Broto Grande de Unidade",
   "block.sgjourney.medium_unity_bud": "Broto Médio de Unidade",
@@ -39,6 +39,7 @@
   "block.sgjourney.stone_cartouche": "Cartucho de Pedra",
 
   "block.sgjourney.cartouche.not_enough_space": "O cartucho não tem espaço suficiente",
+
 
   "block.sgjourney.universe_stargate": "Stargate de Universo",
   "block.sgjourney.universe_ring": "Anel de Stargate de Universo",
@@ -71,6 +72,8 @@
   "block.sgjourney.stargate.classic.invalid_address": "Endereço inválido",
   "block.sgjourney.stargate.classic.address_exists": "O Endereço já existe",
   "block.sgjourney.stargate.incorrect_stargate_type": "Tipo de Stargate incorreto",
+
+  "block.sgjourney.protected_permissions": "Protegido: você não tem permissões para fazer isso",
 
   "block.sgjourney.transport_rings": "Anéis de Transporte",
   "block.sgjourney.ring_panel": "Painel de Anéis",
@@ -251,6 +254,7 @@
   "stat.sgjourney.times_used_wormhole": "Vezes viajou pelo Buraco de Minhoca",
   "stat.sgjourney.distance_traveled_by_stargate": "Distância pelo Stargate",
 
+
   "entity.minecraft.villager.sgjourney.archeologist": "Mapa de Arqueólogo",
 
   "filled_map.sgjourney.archeologist": "Mapa de Arqueólogo",
@@ -304,6 +308,7 @@
   "biome.sgjourney.lantean_deep_ocean": "Oceano Profundo Lanteano",
   "biome.sgjourney.milky_way_forest": "Floresta da Via Láctea",
   "biome.sgjourney.milky_way_plains": "Planícies da Via Láctea",
+
 
   "advancements.sgjourney.adventure.root.title": "Stargate Journey",
   "advancements.sgjourney.adventure.root.description": "Comece sua jornada no universo Stargate encontrando um Ídolo Dourado",
@@ -363,6 +368,7 @@
   "advancements.sgjourney.technology.obtain_pda.title": "O que ele pode fazer?",
   "advancements.sgjourney.technology.obtain_pda.description": "Obtenha um DAP",
 
+
   "galaxy.sgjourney.milky_way": "Via Láctea",
   "galaxy.sgjourney.pegasus": "Pegasus",
   "galaxy.sgjourney.ida": "Ida",
@@ -415,6 +421,7 @@
   "symbols.sgjourney.nether": "Nether",
   "symbols.sgjourney.end": "End",
 
+
   "point_of_origin.sgjourney.terra": "Terra",
   "point_of_origin.sgjourney.tauri": "Tau'ri",
   "point_of_origin.sgjourney.giza": "Giza",
@@ -455,6 +462,7 @@
 
   "point_of_origin.sgjourney.ursa": "Ursa",
 
+
   "info.sgjourney.add_to_network": "Adicionar à Rede",
   "info.sgjourney.point_of_origin": "Ponto de Origem",
   "info.sgjourney.symbol": "Símbolo",
@@ -475,6 +483,7 @@
   "info.sgjourney.iris_texture": "Textura da Íris",
   "info.sgjourney.iris_durability": "Durabilidade da Íris",
   "info.sgjourney.address_table": "Tabela de Endereços",
+  "info.sgjourney.energy": "Energia",
 
   "tooltip.sgjourney.symbol": "Símbolo",
   "tooltip.sgjourney.symbols": "Símbolos",
@@ -489,6 +498,7 @@
   "tooltip.sgjourney.requires": "Requer",
   "tooltip.sgjourney.stargate_type": "Tipo de Stargate",
   "tooltip.sgjourney.generates_inside_structure": "Gera dentro de uma Estrutura",
+  "tooltip.sgjourney.is_primary": "É Primário",
 
   "tooltip.sgjourney.not_added_to_network": "Não será adicionado à rede",
   "tooltip.sgjourney.local_point_of_origin": "Ponto de Origem Local",
@@ -605,10 +615,10 @@
   "message.sgjourney.stargate.error.blacklisted_self": "O Stargate está na lista negra do Stargate alvo",
 
   "message.sgjourney.stargate.info.connection_ended.disconnect": "Stargate desconectado",
-  "message.sgjourney.stargate.info.connection_ended.point_of_origin": "O Stargate foi desconectado ao travar o ponto de origem",
-  "message.sgjourney.stargate.info.connection_ended.stargate_network": "O Stargate desconectado pela Rede Stargate",
-  "message.sgjourney.stargate.info.connection_ended.autoclose": "O Stargate foi desconectado automaticamente",
-  "message.sgjourney.stargate.error.exceeded_connection_time": "O Stargate excedeu seu tempo máximo de conexão",
+  "message.sgjourney.stargate.info.connection_ended.point_of_origin": "Stargate desconectado ao travar o ponto de origem",
+  "message.sgjourney.stargate.info.connection_ended.stargate_network": "Stargate desconectado pela Rede Stargate",
+  "message.sgjourney.stargate.info.connection_ended.autoclose": "Stargate desconectado automaticamente",
+  "message.sgjourney.stargate.error.exceeded_connection_time": "Stargate excedeu seu tempo máximo de conexão",
   "message.sgjourney.stargate.error.ran_out_of_power": "Acabou a energia",
   "message.sgjourney.stargate.error.connection_rerouted": "Conexão redirecionada",
   "message.sgjourney.stargate.error.wrong_disconnect_side": "O Stargate não pode ser desconectado deste lado",
@@ -616,13 +626,13 @@
 
   "message.sgjourney.stargate.error.stargate_destroyed": "O Stargate foi destruído",
   "message.sgjourney.stargate.error.could_not_reach_target_stargate": "Não foi possível alcançar o Stargate alvo",
-  "message.sgjourney.stargate.error.interrupted_by_incoming_connection": "O Stargate foi interrompido por uma conexão de entrada",
+  "message.sgjourney.stargate.error.interrupted_by_incoming_connection": "O Stargate foi interrompido por conexão de entrada",
 
   "message.sgjourney.stargate.info.chevron_opened": "Divisa aberta",
   "message.sgjourney.stargate.info.chevron_closed": "Divisa fechada",
   "message.sgjourney.stargate.info.chevron_not_open": "Divisa não está aberta",
-  "message.sgjourney.stargate.error.chevron_already_opened": "A Divisa já está aberta",
-  "message.sgjourney.stargate.error.chevron_already_closed": "A Divisa já está fechada",
+  "message.sgjourney.stargate.error.chevron_already_opened": "Divisa já está aberta",
+  "message.sgjourney.stargate.error.chevron_already_closed": "Divisa já está fechada",
   "message.sgjourney.stargate.error.cannot_encode_point_of_origin": "Não é possível codificar o Ponto de Origem",
 
   "message.sgjourney.command.get_address.no_galaxy": "Você não está localizado em nenhuma Galáxia",
@@ -642,10 +652,17 @@
   "message.sgjourney.command.get_transporters": "Transportadores na dimensão",
   "message.sgjourney.command.transporter_network_reload": "Rede de Transportadores recarregada",
   "message.sgjourney.command.click_to_copy.address": "Clique para copiar o Endereço",
+  "message.sgjourney.command.primary_stargate_set": "Stargate Primário definido",
+"message.sgjourney.command.primary_stargate_unset": "Stargate Primário não definido",
+"message.sgjourney.command.primary_stargate": "Stargate Primário",
+"message.sgjourney.command.primary_stargate_none": "Sem Stargate Primário",
+"message.sgjourney.command.protected_block_set": "Bloco Protegido definido",
+"message.sgjourney.command.protected_block_unset": "Bloco Protegido não definido",
+"message.sgjourney.command.not_protected_block": "O alvo não é um bloco protegível",
 
   "message.sgjourney.gdo.shielded": "Protegido",
   "message.sgjourney.gdo.error.no_nearby_stargate": "Nenhum Stargate próximo",
-  "message.sgjourney.gdo.error.stargate_not_connected": "O Stargate não está conectado",
+  "message.sgjourney.gdo.error.stargate_not_connected": "Stargate não está conectado",
 
   "gui.sgjourney.config": "Configuração de Stargate Journey",
   "gui.sgjourney.client": "Cliente",
