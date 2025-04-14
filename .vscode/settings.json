@@ -1,5 +1,6 @@
 {
   "java.configuration.updateBuildConfiguration": "automatic",
   "java.compile.nullAnalysis.mode": "automatic",
-  "java.jdt.ls.java.home": ""
+  "java.jdt.ls.java.home": "",
+  "git.ignoreLimitWarning": true
 }
