@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "ingredient": {
+    "item": "sgjourney:raw_naquadah_block"
+  },
+  "result": {
+    "amount": 900,
+    "fluid": "sgjourney:liquid_naquadah"
+  },
+  "temperature": 1000,
+  "time": 150
+}

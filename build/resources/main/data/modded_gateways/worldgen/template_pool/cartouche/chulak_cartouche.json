@@ -1,0 +1,19 @@
+{
+	"name": "modded_gateways:chulak_cartouche",
+	
+	"fallback": "minecraft:empty",
+	
+	"elements":
+	[
+		{
+			"weight": 1,
+			"element":
+			{
+				"location": "modded_gateways:cartouche/chulak_cartouche",
+				"processors": "minecraft:empty",
+				"projection": "rigid",
+				"element_type": "minecraft:single_pool_element"
+			}
+		}
+	]
+}

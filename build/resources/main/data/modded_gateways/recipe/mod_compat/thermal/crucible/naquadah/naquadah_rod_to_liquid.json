@@ -1,0 +1,19 @@
+{
+  "type": "thermal:crucible",
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "thermal"
+    }
+  ],
+  "ingredient": {
+    "item": "sgjourney:naquadah_rod"
+  },
+  "result": [
+    {
+      "fluid": "sgjourney:liquid_naquadah",
+      "amount": 50
+    }
+  ],
+  "energy": 500
+}

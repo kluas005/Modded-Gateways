@@ -1,0 +1,22 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    { "id": "cosmos:ashed_lands", "required": false },
+    { "id": "cosmos:cobbled_wastelands", "required": false },
+    { "id": "cosmos:earth_moon_land", "required": false },
+    { "id": "cosmos:frostylands", "required": false },
+    { "id": "cosmos:j_1407b_gas_lands", "required": false },
+    { "id": "cosmos:jupiter_gas_lands", "required": false },
+    { "id": "cosmos:martianlands", "required": false },
+    { "id": "cosmos:neptune_gas_lands", "required": false },
+    { "id": "cosmos:nickel_wastelands", "required": false },
+    { "id": "cosmos:nickle_yard", "required": false },
+    { "id": "cosmos:plutolands", "required": false },
+    { "id": "cosmos:saturn_gas_lands", "required": false },
+    { "id": "cosmos:scorching_lands", "required": false },
+    { "id": "cosmos:snowywastelands", "required": false },
+    { "id": "cosmos:uranus_gas_lands", "required": false }
+  ]
+}

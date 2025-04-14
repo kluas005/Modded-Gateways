@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.j_1407",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 22, 30, 26, 15, 8, 18],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [5, 28, 26, 16, 18, 12], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:reflection",
+
+  "dimensions": ["cosmos:j_1407blands"]
+}
