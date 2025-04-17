@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.eternal_starlight",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 17, 35, 4, 23, 29, 10],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [8, 17, 35, 4, 23, 29], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:ursa_major",
+
+  "dimensions": ["eternal_starlight:starlight"]
+}

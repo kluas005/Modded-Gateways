@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.eternal_starlight",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 20, 33, 6, 12, 27, 18],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [3, 20, 33, 6, 12, 27], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:dark_star",
+
+  "dimensions": ["wardentools:abyssdim"]
+}

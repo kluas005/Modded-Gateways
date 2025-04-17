@@ -1,0 +1,11 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    { "id": "wardentools:deep_forest", "required": false },
+    { "id": "wardentools:waste_land", "required": false },
+    { "id": "wardentools:white_forest", "required": false },
+    { "id": "wardentools:cristal_cave", "required": false }
+  ]
+}

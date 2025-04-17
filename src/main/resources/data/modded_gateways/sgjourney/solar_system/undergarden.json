@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.undergarden",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 22, 9, 15, 30, 11, 35],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [24, 5, 16, 13, 2, 30], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:ankh",
+
+  "dimensions": ["undergarden:undergarden"]
+}

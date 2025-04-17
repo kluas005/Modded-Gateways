@@ -17,6 +17,42 @@
       "weight": 1
     },
     {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_dive_into_the_abyss",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_apalachia",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_arcana",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_eden",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_iceika",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_mortum",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_skythern",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_vethea",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_wildwood",
+      "weight": 1
+    },
+    {
       "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_mars",
       "weight": 1
     },
@@ -29,7 +65,15 @@
       "weight": 1
     },
     {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_eternal_starlight",
+      "weight": 1
+    },
+    {
       "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_twilight_forest",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
       "weight": 1
     },
     {
@@ -39,11 +83,8 @@
   ],
   "placement": {
     "salt": 1646217471,
-
     "spacing": 1,
-
     "separation": 0,
-
     "type": "minecraft:random_spread"
   }
 }
