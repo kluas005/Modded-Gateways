@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.divine_rpg_apalachia",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 25, 23, 20, 3, 27, 14],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [4, 30, 1, 24, 14, 33], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:reflection",
+
+  "dimensions": ["divinerpg:apalachia"]
+}
