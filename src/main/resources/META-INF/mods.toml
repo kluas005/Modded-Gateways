@@ -69,7 +69,14 @@ description='''${mod_description}'''
     modId="sgjourney"
     mandatory=true
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
-    versionRange="[o.6,)"
+    versionRange="[0.6,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.${mod_id}]]
+    modId="cosmos"
+    mandatory=false
+    # This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[0.0.7,)"
     ordering="AFTER"
     side="BOTH"
 
