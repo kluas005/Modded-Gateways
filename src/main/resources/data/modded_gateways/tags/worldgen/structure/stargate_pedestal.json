@@ -2,6 +2,8 @@
   "values": [
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_aether",
 
+    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_blue_skies",
+    
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_cosmic_horizons",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_cosmic_horizons_space",
@@ -36,6 +38,8 @@
     
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_twilight_forest",
 
+    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_the_afterdark",
+    
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_venus"

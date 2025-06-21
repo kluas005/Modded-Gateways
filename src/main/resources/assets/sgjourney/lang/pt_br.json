@@ -109,7 +109,7 @@
 
   "block.sgjourney.ancient_gene_detector": "Detector de Gene Antigo",
 
-  "block.sgjourney.zpm_hub": "Hub de MPZ",
+  "block.sgjourney.zpm_hub": "Central de MPZ",
   "block.sgjourney.zpm_port": "Porta de MPZ",
   "block.sgjourney.zpm_plug": "Plugue de MPZ",
 
@@ -273,7 +273,7 @@
   "screen.sgjourney.naquadah_generator": "Gerador de Naquadah",
   "screen.sgjourney.dhd": "Dispositivo de Discagem",
 
-  "screen.sgjourney.zpm_hub": "Hub de MPZ",
+  "screen.sgjourney.zpm_hub": "Central de MPZ",
   "screen.sgjourney.zpm_port": "Porta de MPZ",
   "screen.sgjourney.zpm_plug": "Plugue de MPZ",
 
@@ -630,9 +630,9 @@
 
   "message.sgjourney.stargate.info.chevron_opened": "Divisa aberta",
   "message.sgjourney.stargate.info.chevron_closed": "Divisa fechada",
-  "message.sgjourney.stargate.info.chevron_not_open": "Divisa não está aberta",
-  "message.sgjourney.stargate.error.chevron_already_opened": "Divisa já está aberta",
-  "message.sgjourney.stargate.error.chevron_already_closed": "Divisa já está fechada",
+  "message.sgjourney.stargate.info.chevron_not_open": "A Divisa não está aberta",
+  "message.sgjourney.stargate.error.chevron_already_opened": "A Divisa já está aberta",
+  "message.sgjourney.stargate.error.chevron_already_closed": "A Divisa já está fechada",
   "message.sgjourney.stargate.error.cannot_encode_point_of_origin": "Não é possível codificar o Ponto de Origem",
 
   "message.sgjourney.command.get_address.no_galaxy": "Você não está localizado em nenhuma Galáxia",

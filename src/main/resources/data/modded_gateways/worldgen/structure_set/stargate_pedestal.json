@@ -5,6 +5,10 @@
       "weight": 1
     },
     {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_blue_skies",
+      "weight": 1
+    },
+    {
       "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_cosmic_horizons",
       "weight": 1
     },
@@ -70,6 +74,10 @@
     },
     {
       "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_twilight_forest",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_the_afterdark",
       "weight": 1
     },
     {

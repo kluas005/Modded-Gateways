@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.blue_skies_everdawn",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 5, 22, 10, 28, 16, 2],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [9, 34, 17, 4, 27, 11], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:reflection",
+
+  "dimensions": ["blue_skies:everdawn"]
+}
