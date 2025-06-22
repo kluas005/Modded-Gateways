@@ -85,6 +85,10 @@
       "weight": 1
     },
     {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_star_wars",
+      "weight": 1
+    },
+    {
       "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_venus",
       "weight": 1
     }

@@ -1,0 +1,19 @@
+{
+  "name": "solar_system.sgjourney.tatooine",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "address": [1, 4, 21, 29, 13, 31, 12],
+    "randomizable": true
+  },
+  "addresses": [
+    {
+      "galaxy": "sgjourney:milky_way",
+      "address": { "address": [5, 26, 32, 19, 15, 7], "randomizable": true }
+    }
+  ],
+
+  "point_of_origin": "sgjourney:aurum",
+
+  "dimensions": ["swplanets:tatooine", "swplanets:tatooine_orbit"]
+}
