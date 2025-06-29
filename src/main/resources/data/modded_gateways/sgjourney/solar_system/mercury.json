@@ -19,6 +19,8 @@
     "ad_astra:mercury",
     "ad_astra:mercury_orbit",
 
-    "cosmos:mercury_wasteland"
+    "cosmos:mercury_wasteland",
+
+    "stellaris:mercury"
   ]
 }

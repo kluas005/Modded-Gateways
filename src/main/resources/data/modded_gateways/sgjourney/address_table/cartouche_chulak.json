@@ -52,11 +52,6 @@
       "galaxy": "sgjourney:milky_way"
     },
     {
-      "address": "eternal_starlight:starlight",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
-    },
-    {
       "address": "cosmos:gaia_bh_1",
       "weight": 1,
       "galaxy": "sgjourney:milky_way"
@@ -158,6 +153,31 @@
     },
     {
       "address": "divinerpg:wildwood",
+      "weight": 1,
+      "galaxy": "sgjourney:milky_way"
+    },
+    {
+      "address": "eternal_starlight:starlight",
+      "weight": 1,
+      "galaxy": "sgjourney:milky_way"
+    },
+    {
+      "address": "stellaris:mars",
+      "weight": 1,
+      "galaxy": "sgjourney:milky_way"
+    },
+    {
+      "address": "stellaris:mercury",
+      "weight": 1,
+      "galaxy": "sgjourney:milky_way"
+    },
+    {
+      "address": "stellaris:moon",
+      "weight": 1,
+      "galaxy": "sgjourney:milky_way"
+    },
+    {
+      "address": "stellaris:venus",
       "weight": 1,
       "galaxy": "sgjourney:milky_way"
     },

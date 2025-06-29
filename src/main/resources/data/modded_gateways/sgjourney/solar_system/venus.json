@@ -15,5 +15,5 @@
 
   "point_of_origin": "sgjourney:eye_of_ra",
 
-  "dimensions": ["ad_astra:venus", "ad_astra:venus_orbit", "cosmos:venuslands"]
+  "dimensions": ["ad_astra:venus", "ad_astra:venus_orbit", "cosmos:venuslands", "stellaris:venus"]
 }

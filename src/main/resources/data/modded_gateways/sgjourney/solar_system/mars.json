@@ -15,5 +15,5 @@
 
   "point_of_origin": "sgjourney:kaliem",
 
-  "dimensions": ["ad_astra:mars", "ad_astra:mars_orbit", "cosmos:marslands"]
+  "dimensions": ["ad_astra:mars", "ad_astra:mars_orbit", "cosmos:marslands", "stellaris:mars"]
 }

@@ -15,5 +15,5 @@
 
   "point_of_origin": "sgjourney:giza",
 
-  "dimensions": ["ad_astra:moon", "ad_astra:moon_orbit", "cosmos:earth_moon"]
+  "dimensions": ["ad_astra:moon", "ad_astra:moon_orbit", "cosmos:earth_moon", "stellaris:moon"]
 }
