@@ -1,5 +1,5 @@
 {
-  "include_generated_addresses": false,
+  "include_generated_addresses": true,
   "addresses": [
     {
       "address": "ad_astra:mars",
