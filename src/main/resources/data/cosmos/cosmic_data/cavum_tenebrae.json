@@ -1,0 +1,34 @@
+{
+  "attached_dimention_id": "sgjourney:cavum_tenebrae",
+  "skybox_data": {
+    "texture_id": "skybox_gaia",
+    "alpha": 255,
+    "yaw": -45,
+    "pitch": 30,
+    "roll": 15,
+    "rotation_plane": "pitch",
+    "fade": "night"
+  },
+  "dimensional_data": {
+    "dimension_type": "planet",
+    "sky_objects": true,
+    "fog_data": {
+      "color": {
+        "r": 255,
+        "g": 120,
+        "b": 60
+      },
+      "level": 0.4
+    },
+    "atmospheric_data": {
+      "atmosphere_y": 560,
+      "travel_to": "cosmos:gaia_bh_1",
+      "origin_x": 55000,
+      "origin_y": 1700,
+      "origin_z": 95000,
+      "overlay_texture_id": "mars_bar",
+      "shipbit_y": 30,
+      "ship_min_y": 150
+    }
+  }
+}
