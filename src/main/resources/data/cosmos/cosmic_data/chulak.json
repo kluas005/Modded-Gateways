@@ -1,0 +1,32 @@
+{
+  "attached_dimention_id": "sgjourney:chulak",
+  "skybox_data": {
+    "texture_id": "skybox_solar",
+    "alpha": 235,
+    "yaw": -50,
+    "pitch": 20,
+    "roll": 32,
+    "rotation_plane": "pitch",
+    "fade": "night"
+  },
+  "dimensional_data": {
+    "dimension_type": "planet",
+    "sky_objects": true,
+    "atmosphere_color": {
+      "r": 51,
+      "g": 153,
+      "b": 255,
+      "alpha": 45
+    },
+    "atmospheric_data": {
+      "atmosphere_y": 560,
+      "travel_to": "cosmos:solar_system",
+      "origin_x": 155000,
+      "origin_y": 900,
+      "origin_z": 110000,
+      "overlay_texture_id": "earth_bar",
+      "shipbit_y": 24,
+      "ship_min_y": 120
+    }
+  }
+}

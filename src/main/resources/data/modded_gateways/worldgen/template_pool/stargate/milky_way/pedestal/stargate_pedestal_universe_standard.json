@@ -1,0 +1,17 @@
+{
+  "name": "modded_gateways:stargate_pedestal_universe_standard",
+
+  "fallback": "minecraft:empty",
+
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "modded_gateways:stargate/milky_way/pedestal/standard_universe_stargate_pedestal",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

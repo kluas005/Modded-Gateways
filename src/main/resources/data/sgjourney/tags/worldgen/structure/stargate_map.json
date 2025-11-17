@@ -1,9 +1,4 @@
 {
-  "values": [
-    "#sgjourney:buried_stargate",
-    "#sgjourney:universe_stargate_pedestal",
-    "#sgjourney:milky_way_stargate_pedestal",
-    "#sgjourney:stargate_temple",
-    "#modded_gateways:stargate_pedestal"
-  ]
+  "replace": false,
+  "values": ["#modded_gateways:stargate_pedestal"]
 }

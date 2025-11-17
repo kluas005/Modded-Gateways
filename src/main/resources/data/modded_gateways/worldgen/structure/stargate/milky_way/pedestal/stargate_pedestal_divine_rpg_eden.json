@@ -1,7 +1,7 @@
 {
   "type": "sgjourney:stargate_pedestal",
 
-  "start_pool": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_standard",
+  "start_pool": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_universe_standard",
 
   "size": 1,
 
@@ -9,17 +9,19 @@
 
   "biomes": "#modded_gateways:has_structure/stargate_pedestal/stargate_pedestal_divine_rpg_eden_biomes",
 
-  "step": "strongholds",
+  "step": "surface_structures",
 
   "start_height": {
     "type": "minecraft:uniform",
-    "max_inclusive": {
-      "absolute": 150
-    },
     "min_inclusive": {
-      "absolute": 130
+      "above_bottom": 100
+    },
+    "max_inclusive": {
+      "below_top": 100
     }
   },
+
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
 
   "use_expansion_hack": false,
 
