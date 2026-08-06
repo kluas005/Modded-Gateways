@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.mandalore",
+  "point_of_origin": "sgjourney:ankh",
+  "symbols": "sgjourney:universal",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      25,
+      18,
+      9,
+      7,
+      24,
+      21
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          30,
+          17,
+          4,
+          35,
+          27,
+          22
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

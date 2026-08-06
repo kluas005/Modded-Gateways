@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.jupiter",
+  "point_of_origin": "sgjourney:centauri",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      25,
+      14,
+      6,
+      22,
+      19,
+      33
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          5,
+          26,
+          9,
+          12,
+          33,
+          30
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

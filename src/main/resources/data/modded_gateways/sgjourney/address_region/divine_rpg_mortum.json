@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.divine_rpg_mortum",
+  "point_of_origin": "sgjourney:ursa_major",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      9,
+      11,
+      32,
+      8,
+      30,
+      25
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          12,
+          25,
+          9,
+          31,
+          34,
+          36
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

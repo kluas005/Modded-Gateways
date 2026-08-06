@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.j_1900",
+  "point_of_origin": "sgjourney:wheel",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      22,
+      30,
+      26,
+      15,
+      8,
+      29
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          26,
+          15,
+          8,
+          29,
+          5,
+          12
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

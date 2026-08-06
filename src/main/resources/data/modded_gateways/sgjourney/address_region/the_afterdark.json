@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.the_afterdark",
+  "point_of_origin": "sgjourney:triforce",
+  "symbols": "sgjourney:universal",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      19,
+      22,
+      3,
+      26,
+      5,
+      13
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          8,
+          21,
+          37,
+          23,
+          6,
+          32
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

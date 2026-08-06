@@ -3,43 +3,51 @@
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_aether",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_blue_skies",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_cosmic_horizons",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_cosmic_horizons_space",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_deeper_and_darker",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_apalachia",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_arcana",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_eden",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_iceika",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_mortum",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_skythern",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_vethea",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_wildwood",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_mars",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_mercury",
-    
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_moon",
-    
+
+    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_venus",
+
+    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_mars",
+
+    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_mercury",
+
+    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_moon",
+
+    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_venus",
+
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_twilight_forest",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_the_afterdark",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_star_wars",
-    
-    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
-    
-    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_venus"
+
+    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_undergarden"
   ]
 }

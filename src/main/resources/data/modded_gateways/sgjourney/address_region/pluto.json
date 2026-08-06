@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.pluto",
+  "point_of_origin": "sgjourney:ursa_minor",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      22,
+      29,
+      26,
+      15,
+      8,
+      12
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          26,
+          9,
+          28,
+          18,
+          6,
+          19
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

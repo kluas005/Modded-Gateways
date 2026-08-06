@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.divine_rpg_apalachia",
+  "point_of_origin": "sgjourney:reflection",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      25,
+      23,
+      20,
+      3,
+      27,
+      14
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          4,
+          30,
+          1,
+          24,
+          14,
+          33
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

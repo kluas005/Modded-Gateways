@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.divine_rpg_skythern",
+  "point_of_origin": "sgjourney:icarus",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      31,
+      33,
+      21,
+      27,
+      8,
+      13
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          20,
+          2,
+          5,
+          33,
+          21,
+          3
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

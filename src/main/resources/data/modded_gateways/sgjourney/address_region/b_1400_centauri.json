@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.b_1400_centauri",
+  "point_of_origin": "sgjourney:destiny",
+  "symbols": "sgjourney:centauri",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      22,
+      30,
+      26,
+      15,
+      12,
+      29
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          5,
+          15,
+          26,
+          29,
+          12,
+          8
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

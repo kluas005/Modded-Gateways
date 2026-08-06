@@ -37,7 +37,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "sgjourney:naquadah_alloy",
+          "name": "sgjourney:naquadah_iron_alloy",
           "weight": 1,
           "functions": [
             {

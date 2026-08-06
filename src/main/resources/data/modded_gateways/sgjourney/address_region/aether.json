@@ -1,0 +1,24 @@
+{
+  "name": "solar_system.aether",
+  "point_of_origin": "sgjourney:mjolnir",
+  "symbols": "sgjourney:galaxy_pegasus",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [1, 12, 19, 34, 3, 36, 9],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [5, 28, 16, 20, 32, 2],
+        "randomizable": true
+      }
+    },
+    "sgjourney:pegasus": {
+      "address": {
+        "symbols": [7, 18, 23, 9, 31, 14],
+        "randomizable": true
+      }
+    }
+  }
+}

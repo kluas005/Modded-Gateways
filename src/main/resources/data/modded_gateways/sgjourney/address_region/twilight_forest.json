@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.twilight_forest",
+  "point_of_origin": "sgjourney:serpent",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      18,
+      33,
+      27,
+      30,
+      9,
+      34
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          18,
+          33,
+          27,
+          30,
+          9,
+          11
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

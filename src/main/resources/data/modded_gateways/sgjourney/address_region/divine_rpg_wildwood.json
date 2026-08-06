@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.divine_rpg_wildwood",
+  "point_of_origin": "sgjourney:mjolnir",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      12,
+      9,
+      25,
+      34,
+      2,
+      28
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          12,
+          9,
+          25,
+          34,
+          2,
+          28
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

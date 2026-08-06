@@ -1,7 +1,7 @@
 {
   "type": "sgjourney:stargate_pedestal",
 
-  "start_pool": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_standard",
+  "start_pool": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_deeper_and_darker",
 
   "size": 1,
 

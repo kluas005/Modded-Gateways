@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.moon",
+  "point_of_origin": "sgjourney:giza",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      30,
+      12,
+      29,
+      27,
+      26,
+      6
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          30,
+          13,
+          4,
+          9,
+          34,
+          31
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

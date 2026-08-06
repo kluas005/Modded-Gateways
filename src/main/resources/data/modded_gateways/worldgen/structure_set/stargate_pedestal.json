@@ -65,6 +65,26 @@
       "weight": 1
     },
     {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_venus",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_mars",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_mercury",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_moon",
+      "weight": 1
+    },
+    {
+      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_venus",
+      "weight": 1
+    },
+    {
       "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_twilight_forest",
       "weight": 1
     },
@@ -78,10 +98,6 @@
     },
     {
       "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_star_wars",
-      "weight": 1
-    },
-    {
-      "structure": "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_venus",
       "weight": 1
     }
   ],
