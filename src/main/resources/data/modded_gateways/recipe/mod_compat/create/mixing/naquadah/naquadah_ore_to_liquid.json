@@ -9,7 +9,7 @@
   "heatRequirement": "heated",
   "ingredients": [
     {
-      "tag": "neoforge:ores/naquadah"
+      "tag": "sgjourney:naquadah_ores"
     }
   ],
   "results": [

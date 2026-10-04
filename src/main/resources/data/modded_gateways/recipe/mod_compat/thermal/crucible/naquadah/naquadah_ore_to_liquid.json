@@ -7,11 +7,7 @@
     }
   ],
   "ingredient": {
-<<<<<<< HEAD:src/main/resources/data/modded_gateways/recipe/mod_compat/thermal/crucible/naquadah/naquadah_ore_to_liquid.json
-    "tag": "neoforge:ores/naquadah"
-=======
     "item": "sgjourney:naquadah_iron_alloy"
->>>>>>> 1.20.1:src/main/resources/data/modded_gateways/recipes/mod_compat/thermal/crucible/naquadah/naquadah_alloy_to_liquid.json
   },
   "result": [
     {

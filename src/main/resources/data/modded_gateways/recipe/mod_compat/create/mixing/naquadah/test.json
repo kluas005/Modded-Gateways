@@ -17,11 +17,7 @@
   ],
   "results": [
     {
-<<<<<<< HEAD:src/main/resources/data/modded_gateways/recipe/mod_compat/create/mixing/naquadah/test.json
-      "id": "sgjourney:naquadah_alloy"
-=======
       "item": "sgjourney:naquadah_iron_alloy"
->>>>>>> 1.20.1:src/main/resources/data/modded_gateways/recipes/mod_compat/create/mixing/naquadah/test.json
     }
   ]
 }

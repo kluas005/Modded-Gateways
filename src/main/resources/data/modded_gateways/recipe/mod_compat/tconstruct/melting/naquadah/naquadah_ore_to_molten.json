@@ -7,7 +7,7 @@
     }
   ],
   "ingredient": {
-    "tag": "neoforge:ores/naquadah"
+    "tag": "sgjourney:naquadah_ores"
   },
   "result": {
     "amount": 100,

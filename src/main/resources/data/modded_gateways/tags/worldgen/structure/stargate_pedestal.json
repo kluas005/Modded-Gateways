@@ -10,11 +10,6 @@
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_deeper_and_darker",
 
-<<<<<<< HEAD
-    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_dive_into_the_abyss",
-
-=======
->>>>>>> 1.20.1
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_apalachia",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_divine_rpg_arcana",
@@ -37,10 +32,6 @@
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_moon",
 
-<<<<<<< HEAD
-    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_eternal_starlight",
-    
-=======
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_venus",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_mars",
@@ -51,22 +42,12 @@
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_northstar_venus",
 
->>>>>>> 1.20.1
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_twilight_forest",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_the_afterdark",
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_star_wars",
-<<<<<<< HEAD
-    
-    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_stellaris",
-    
-    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_undergarden",
-
-    "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_venus"
-=======
 
     "modded_gateways:stargate/milky_way/pedestal/stargate_pedestal_undergarden"
->>>>>>> 1.20.1
   ]
 }
