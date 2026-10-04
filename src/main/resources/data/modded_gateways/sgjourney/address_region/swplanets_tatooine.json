@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.tatooine",
+  "point_of_origin": "sgjourney:aurum",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      4,
+      21,
+      29,
+      13,
+      31,
+      12
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          5,
+          26,
+          32,
+          19,
+          15,
+          7
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

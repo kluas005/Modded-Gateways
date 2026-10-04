@@ -1,0 +1,13 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    { "id": "northstar:martian_dunes", "required": false },
+    { "id": "northstar:martian_peaks", "required": false },
+    { "id": "northstar:martian_magmatic_caves", "required": false },
+    { "id": "northstar:martian_crimsite_caverns", "required": false },
+    { "id": "northstar:martian_highlands", "required": false },
+    { "id": "northstar:martian_overgrown_caverns", "required": false }
+  ]
+}

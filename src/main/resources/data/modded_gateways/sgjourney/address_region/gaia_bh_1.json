@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.gaia_bh_1",
+  "point_of_origin": "sgjourney:dark_star",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      22,
+      30,
+      26,
+      15,
+      12,
+      18
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          26,
+          5,
+          29,
+          15,
+          8,
+          18
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

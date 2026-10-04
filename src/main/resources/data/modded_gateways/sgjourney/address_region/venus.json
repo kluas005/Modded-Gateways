@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.venus",
+  "point_of_origin": "sgjourney:eye_of_ra",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      20,
+      8,
+      4,
+      22,
+      15,
+      12
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          30,
+          27,
+          9,
+          31,
+          3,
+          13
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

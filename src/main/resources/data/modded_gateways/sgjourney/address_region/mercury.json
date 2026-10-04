@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.mercury",
+  "point_of_origin": "sgjourney:reflection",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      8,
+      17,
+      4,
+      23,
+      11,
+      31
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          30,
+          9,
+          36,
+          34,
+          31,
+          27
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

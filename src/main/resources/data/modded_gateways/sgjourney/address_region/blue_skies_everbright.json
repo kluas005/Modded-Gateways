@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.blue_skies_everbright",
+  "point_of_origin": "sgjourney:aurum",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      18,
+      26,
+      30,
+      13,
+      35,
+      22
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          7,
+          14,
+          24,
+          36,
+          12,
+          31
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

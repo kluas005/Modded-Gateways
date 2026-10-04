@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.divine_rpg_eden",
+  "point_of_origin": "sgjourney:eye_of_ra",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      22,
+      30,
+      11,
+      15,
+      19,
+      32
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          13,
+          31,
+          26,
+          14,
+          7,
+          36
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

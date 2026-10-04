@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.hot",
+  "point_of_origin": "sgjourney:triforce",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      27,
+      8,
+      22,
+      5,
+      14,
+      34
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          30,
+          9,
+          26,
+          19,
+          6,
+          10
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

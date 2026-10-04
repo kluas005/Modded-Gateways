@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.endor",
+  "point_of_origin": "sgjourney:aurum",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      23,
+      5,
+      18,
+      7,
+      34,
+      12
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          24,
+          2,
+          33,
+          17,
+          32,
+          30
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

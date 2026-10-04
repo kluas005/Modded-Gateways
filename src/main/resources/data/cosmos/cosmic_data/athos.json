@@ -6,8 +6,7 @@
     "yaw": -50,
     "pitch": 20,
     "roll": 32,
-    "rotation_plane": "pitch",
-    "fade": "night"
+    "rotation_plane": "pitch"
   },
   "dimensional_data": {
     "dimension_type": "planet",

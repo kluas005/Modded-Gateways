@@ -2,229 +2,305 @@
   "include_generated_addresses": true,
   "addresses": [
     {
-      "address": "ad_astra:mars",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "ad_astra:mars",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "ad_astra:mercury",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "ad_astra:mercury",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "ad_astra:moon",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "ad_astra:moon",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "ad_astra:venus",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "ad_astra:venus",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "aether:the_aether",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "northstar:mars",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "blue_skies:everbright",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "northstar:mars",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "blue_skies:everdawn",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "northstar:moon",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:b_1400_centauri",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "northstar:venus",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:earth_moon",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "aether:the_aether",
+        "galaxy": "sgjourney:pegasus"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:europa_lands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "blue_skies:everbright",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:gaia_bh_1",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "blue_skies:everdawn",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:glacio_lands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:b_1400_centauri",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:j_1407blands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:earth_moon",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:j_1900",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:europa_lands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:jupiterlands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:gaia_bh_1",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:marslands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:glacio_lands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:mercury_wasteland",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:j_1407blands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:neptune_lands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:j_1900",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:plutowastelands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:jupiterlands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:saturn_lands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:marslands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:uranus_lands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:mercury_wasteland",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "cosmos:venuslands",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:neptune_lands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "deeperdarker:otherside",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:plutowastelands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "divinerpg:apalachia",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:saturn_lands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "divinerpg:arcana",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:uranus_lands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "divinerpg:eden",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "cosmos:venuslands",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "divinerpg:iceika",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "deeperdarker:otherside",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "divinerpg:mortum",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "divinerpg:apalachia",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "divinerpg:skythern",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "divinerpg:arcana",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "divinerpg:vethea",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "divinerpg:eden",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "divinerpg:wildwood",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "divinerpg:iceika",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "eternal_starlight:starlight",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "divinerpg:mortum",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "stellaris:mars",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "divinerpg:skythern",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "stellaris:mercury",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "divinerpg:vethea",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "stellaris:moon",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "divinerpg:wildwood",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "stellaris:venus",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "swplanets:endor",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "swplanets:endor",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "swplanets:hot",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "swplanets:hot",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "swplanets:mandalore",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "swplanets:mandalore",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "swplanets:mustafar",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "swplanets:mustafar",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "swplanets:tatooine",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "swplanets:tatooine",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "the_afterdark:the_afterdark",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "the_afterdark:the_afterdark",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "twilightforest:twilight_forest",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     },
     {
-      "address": "twilightforest:twilight_forest",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
-    },
-    {
-      "address": "undergarden:undergarden",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
-    },
-    {
-      "address": "wardentools:abyssdim",
-      "weight": 1,
-      "galaxy": "sgjourney:milky_way"
+      "address": {
+        "dimension": "undergarden:undergarden",
+        "galaxy": "sgjourney:milky_way"
+      },
+      "weight": 1
     }
   ]
 }

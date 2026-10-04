@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.divine_rpg_arcana",
+  "point_of_origin": "sgjourney:aurum",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      33,
+      7,
+      22,
+      10,
+      11,
+      24
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          30,
+          8,
+          1,
+          37,
+          38,
+          33
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}

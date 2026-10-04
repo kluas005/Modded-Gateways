@@ -4,7 +4,7 @@
   "pattern": ["NGN", "GPG", "NAN"],
   "key": {
     "N": {
-      "item": "sgjourney:naquadah_alloy"
+      "item": "sgjourney:naquadah_iron_alloy"
     },
     "G": {
       "tag": "forge:glass_panes"

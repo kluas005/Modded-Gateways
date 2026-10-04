@@ -1,0 +1,33 @@
+{
+  "name": "solar_system.blue_skies_everdawn",
+  "point_of_origin": "sgjourney:reflection",
+  "symbols": "sgjourney:galaxy_milky_way",
+  "symbol_prefix": 1,
+  "extragalactic_address": {
+    "symbols": [
+      1,
+      5,
+      22,
+      10,
+      28,
+      16,
+      2
+    ],
+    "randomizable": true
+  },
+  "galactic_addresses": {
+    "sgjourney:milky_way": {
+      "address": {
+        "symbols": [
+          9,
+          34,
+          17,
+          4,
+          27,
+          11
+        ],
+        "randomizable": true
+      }
+    }
+  }
+}
